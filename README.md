@@ -1,3 +1,7 @@
 # Preparing for Battle
 
-These files were written for the QHack Hackathon that happened between (date) to (date). The title of the challenge was  and problem statement was : "Preparing for battle" and the objective was to come up with an innovative technique that builds an input vector using amplitude embedding.
+These files were written for the **QHack Open Quantum Hackathon** conducted by **Xanadu** that happened between 16 Feb 2024 to 22 Feb 2024. The title of the challenge was "Preparing for battle" and the objective was to come up with an innovative technique that builds an input vector using amplitude embedding.
+
+References :
+
+[1] [https://arxiv.org/abs/2307.08384](Efficient Quantum State Preparation with Walsh Series)
