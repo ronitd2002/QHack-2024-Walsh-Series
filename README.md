@@ -4,4 +4,4 @@ These files were written for the **QHack Open Quantum Hackathon** conducted by *
 
 References :
 
-[1] [https://arxiv.org/abs/2307.08384](Efficient Quantum State Preparation with Walsh Series)
+[1] [Efficient Quantum State Preparation with Walsh Series](https://arxiv.org/abs/2307.08384)
